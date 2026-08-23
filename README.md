@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErdemAkaySabanci](https://github.com/ErdemAkaySabanci)
 
-- 💬 Ask me about **TypeScript, React, , backend development**
+- 💬 Ask me about **TypeScript, React,  backend development**
 
 - 📫 How to reach me **erdemakay00@gmail.com**
 
