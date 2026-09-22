@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdem Akay</h1>
 <h3 align="center">CS grad from Sabancı University | Passionate about building things and solving problems</h3>
 
-- 🔭 I’m currently working on [BayerPOS](https://bayerpos.com/#top)
+- 🔭 I’m currently working on [Close-Up](https://letterboxd-analyzer.onrender.com/)
 
 - 🌱 I’m currently learning **Fastify, PostgreSQL**
 
